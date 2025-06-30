@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Real Madrid",
+    "city": "Madrid",
+    "founded": 1902,
+    "stadium": "Santiago Bernabéu",
+    "players": []
+  },
+  {
+    "name": "FC Barcelona",
+    "city": "Barcelona",
+    "founded": 1899,
+    "stadium": "Camp Nou",
+    "players": []
+  },
+  {
+    "name": "Atlético Madrid",
+    "city": "Madrid",
+    "founded": 1903,
+    "stadium": "Metropolitano",
+    "players": []
+  },
+  {
+    "name": "Sevilla FC",
+    "city": "Sevilla",
+    "founded": 1890,
+    "stadium": "Ramón Sánchez Pizjuán",
+    "players": []
+  },
+  {
+    "name": "Valencia CF",
+    "city": "Valencia",
+    "founded": 1919,
+    "stadium": "Mestalla",
+    "players": []
+  },
+  {
+    "name": "Athletic Club",
+    "city": "Bilbao",
+    "founded": 1898,
+    "stadium": "San Mamés",
+    "players": []
+  }
+] 

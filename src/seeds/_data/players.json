@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Jude Bellingham",
+    "position": "Midfielder",
+    "nationality": "English",
+    "age": 20,
+    "teamName": "Real Madrid"
+  },
+  {
+    "name": "Vinícius Júnior",
+    "position": "Forward",
+    "nationality": "Brazilian",
+    "age": 23,
+    "teamName": "Real Madrid"
+  },
+  {
+    "name": "Robert Lewandowski",
+    "position": "Forward",
+    "nationality": "Polish",
+    "age": 35,
+    "teamName": "FC Barcelona"
+  },
+  {
+    "name": "Lamine Yamal",
+    "position": "Forward",
+    "nationality": "Spanish",
+    "age": 16,
+    "teamName": "FC Barcelona"
+  },
+  {
+    "name": "Antoine Griezmann",
+    "position": "Forward",
+    "nationality": "French",
+    "age": 33,
+    "teamName": "Atlético Madrid"
+  },
+  {
+    "name": "Jan Oblak",
+    "position": "Goalkeeper",
+    "nationality": "Slovenian",
+    "age": 31,
+    "teamName": "Atlético Madrid"
+  },
+  {
+    "name": "Jesús Navas",
+    "position": "Defender",
+    "nationality": "Spanish",
+    "age": 38,
+    "teamName": "Sevilla FC"
+  },
+  {
+    "name": "Giorgi Mamardashvili",
+    "position": "Goalkeeper",
+    "nationality": "Georgian",
+    "age": 23,
+    "teamName": "Valencia CF"
+  },
+  {
+    "name": "Nico Williams",
+    "position": "Forward",
+    "nationality": "Spanish",
+    "age": 21,
+    "teamName": "Athletic Club"
+  }
+] 
